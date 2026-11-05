@@ -1,15 +1,15 @@
 {
- "f": "",
+ "f": "1",
  "i": [
   [
    "Trains",
    "Paschim Express 12925 · 4–5 Dec",
    "docs/train-paschim-express.pdf",
-   ""
+   "1"
   ],
   [
    "Trains",
-   "Golden Temple Mail 12904 · 22 Dec",
+   "2",
    "docs/train-golden-temple-mail.pdf",
    ""
   ],
@@ -23,19 +23,19 @@
    "Hotels",
    "Hotel Prestige · Shimla (6 Dec)",
    "docs/hotel-02-shimla.pdf",
-   ""
+   "3"
   ],
   [
    "Hotels",
    "Hotel Snowflakes · Narkanda (8 Dec)",
    "docs/hotel-03-narkanda.pdf",
-   ""
+   "3"
   ],
   [
    "Hotels",
    "Hotel Moksha – By the River · Jibhi (9 Dec)",
    "docs/hotel-04-jibhi.pdf",
-   ""
+   "3"
   ],
   [
    "Hotels",
@@ -77,13 +77,13 @@
    "Hotels",
    "Hotel Moon Leg · Dalhousie (20 Dec)",
    "docs/hotel-11-dalhousie.pdf",
-   ""
+   "2"
   ],
   [
    "Hotels",
    "Hotel Regal · Amritsar (21 Dec)",
    "docs/hotel-12-amritsar.pdf",
-   ""
+   "1"
   ]
  ]
 }
